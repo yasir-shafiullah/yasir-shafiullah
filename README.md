@@ -2,7 +2,8 @@
 - 👀 I’m interested in Analog IC designing and Programming.
 - 🌱 I’m currently learning VCOs, LNAs, RIS and passive circuit designing.
 - 💞️ I’m looking to collaborate on Analog circuit design and modelling. 
-- 📫 How to reach me ...
+- 📫 Reach out to me here
+
 
 <!---
 yasir-shafiullah/yasir-shafiullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
